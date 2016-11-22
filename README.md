@@ -1,1 +1,1 @@
-"# Lingo" 
+# Lingo
